@@ -58,9 +58,9 @@ const Products = () => {
           <div className="mt-6">
             <p className="mb-2 text-gray-300">FOR ORDERS</p>
             <div className="flex space-x-4">
-              <a href="#" className="bg-blue-600 px-4 py-2 rounded hover:bg-blue-700">FACEBOOK</a>
-              <a href="#" className="bg-orange-500 px-4 py-2 rounded hover:bg-orange-600">SHOPEE</a>
-              <a href="#" className="bg-pink-500 px-4 py-2 rounded hover:bg-pink-600">TIKTOK</a>
+              <a href="https://www.facebook.com/autobeautification1" className="bg-blue-600 px-4 py-2 rounded hover:bg-blue-700">FACEBOOK</a>
+              <a href="https://shopee.ph/lustrax?entryPoint=ShopBySearch&searchKeyword=lustrax" className="bg-orange-500 px-4 py-2 rounded hover:bg-orange-600">SHOPEE</a>
+              <a href="https://www.tiktok.com/@lustrax_ph?_r=1&_d=secCgYIASAHKAESPgo8IvAU6Dt56cKleUqeWODzTSYJaRAnk5A5uzz7WgIUNLaRLwXEO6Dvm6dVacyHWA0XWT29gak6CJMG7oSnGgA%3D&_svg=1&checksum=17f6ad060d45b0bc880092c2654e4763ab3187c043f70a3f7101dbc810c3e468&sec_uid=MS4wLjABAAAAXQPCL3I91Cqe_yafPpku6PxOp1Yvd6xio-HiTyCLmgUX9Os0Ni4K5uTeTlrWPz4T&sec_user_id=MS4wLjABAAAAMQzrX9V4zzp8Ll_Ptg81UtCijXN8rogiodbmhZXR0dz1b79banNsQEs6QWDe_v0S&share_app_id=1180&share_author_id=7433359116988875777&share_link_id=139b39fb-4715-4139-8697-d80a7dda56c5&sharer_language=en&social_share_type=5&source=h5_t&timestamp=1747386407&u_code=dd67iihfm14dd4&ug_btm=b6880%2Cb2878&ugbiz_name=ACCOUNT&user_id=6843403557506466818" className="bg-pink-500 px-4 py-2 rounded hover:bg-pink-600">TIKTOK</a>
             </div>
           </div>
                <p className="text-gray-400 mt-6 text-justify">{product.description}</p>

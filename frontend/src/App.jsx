@@ -8,6 +8,7 @@ import Footer from "./components/Footer"
 import About from "./components/About"
 import Contacts from "./components/Contacts"
 import Recruit from "./components/Recruit"
+import Terms from "./components/Terms"
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contacts" element={<Contacts />} />
           <Route path='/recruit' element={<Recruit />} />
+          <Route path="/terms" element={<Terms />} />
       </Routes>
     <Footer />
     </div>

@@ -29,6 +29,10 @@ import tint_13 from './tint_13.png';
 import tint_14 from './tint_14.png';    
 import tint_15 from './tint_15.png';
 import tint_16 from './tint_16.png';
+import tint_17 from './tint_17.png';
+import tint_18 from './tint_18.png';
+import tint_19 from './tint_19.png';
+import tint_20 from './tint_20.png';
 
 
 
@@ -111,6 +115,18 @@ export const products = [
         date: 1716664045448,
 
     },
+
+    {  _id: "aaaca",
+        name: "HD 0595 Tint",
+        description: "HD 0595 is a high-performance automotive window film that offers exceptional heat rejection, UV protection, and glare reduction. With its advanced nano-ceramic technology, this film provides superior clarity and durability while maintaining a sleek appearance. Designed to enhance the comfort of your vehicle's interior, HD7095 helps keep your car cooler in hot weather and protects against harmful UV rays. Its scratch-resistant surface ensures long-lasting performance, making it an ideal choice for those seeking both style and functionality.",
+        price: 1500,
+        image: [tint_17, tint_18, tint_19, tint_20],
+        category: "Tint",
+        sizes: ["S", "M", "L", "XL"],
+        date: 1716664045448,
+
+    },
+
 
 
 ]

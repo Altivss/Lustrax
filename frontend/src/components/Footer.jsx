@@ -17,7 +17,7 @@ const Footer = () => {
           {/* Privacy links below logo */}
           <div className="text-sm text-gray-400 mt-4">
             <span className="cursor-pointer hover:underline mr-4">Privacy Policy</span>
-            <span className="cursor-pointer hover:underline">Terms of Services</span>
+            <span onClick={()=>navigate('/terms')} className="cursor-pointer hover:underline">Terms of Services</span>
           </div>
         </div>
 
