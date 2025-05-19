@@ -22,6 +22,14 @@ import tint_6 from './tint_6.png';
 import tint_7 from './tint_7.png';
 import tint_8 from './tint_8.png';
 import tint_9 from './tint_9.png';
+import tint_10 from './tint_10.png';
+import tint_11 from './tint_11.png';
+import tint_12 from './tint_12.png';    
+import tint_13 from './tint_13.png';
+import tint_14 from './tint_14.png';    
+import tint_15 from './tint_15.png';
+import tint_16 from './tint_16.png';
+
 
 
 
@@ -62,7 +70,7 @@ export const products = [
             name: "HD 7095 Tint",
             description: "HD 7095 is a high-performance automotive window film that offers exceptional heat rejection, UV protection, and glare reduction. With its advanced nano-ceramic technology, this film provides superior clarity and durability while maintaining a sleek appearance. Designed to enhance the comfort of your vehicle's interior, HD7095 helps keep your car cooler in hot weather and protects against harmful UV rays. Its scratch-resistant surface ensures long-lasting performance, making it an ideal choice for those seeking both style and functionality.",
             price: 1500,
-            image: [tint_1, tint_2, tint_3, tint_4],
+            image: [tint_4, tint_2, tint_3, tint_1],
             category: "Tint",
             sizes: ["S", "M", "L", "XL"],
             date: 1716664045448,
@@ -74,7 +82,30 @@ export const products = [
         name: "HD 5095 Tint",
         description: "HD 5095 is a high-performance automotive window film that offers exceptional heat rejection, UV protection, and glare reduction. With its advanced nano-ceramic technology, this film provides superior clarity and durability while maintaining a sleek appearance. Designed to enhance the comfort of your vehicle's interior, HD7095 helps keep your car cooler in hot weather and protects against harmful UV rays. Its scratch-resistant surface ensures long-lasting performance, making it an ideal choice for those seeking both style and functionality.",
         price: 1500,
-        image: [tint_6, tint_7, tint_8, tint_9],
+        image: [tint_9, tint_7, tint_8, tint_6],
+        category: "Tint",
+        sizes: ["S", "M", "L", "XL"],
+        date: 1716664045448,
+
+    },
+
+      {
+        _id: "aaaby",
+        name: "HD 3095 Tint",
+        description: "HD 3095 is a high-performance automotive window film that offers exceptional heat rejection, UV protection, and glare reduction. With its advanced nano-ceramic technology, this film provides superior clarity and durability while maintaining a sleek appearance. Designed to enhance the comfort of your vehicle's interior, HD7095 helps keep your car cooler in hot weather and protects against harmful UV rays. Its scratch-resistant surface ensures long-lasting performance, making it an ideal choice for those seeking both style and functionality.",
+        price: 1500,
+        image: [tint_13, tint_10, tint_12, tint_11],
+        category: "Tint",
+        sizes: ["S", "M", "L", "XL"],
+        date: 1716664045448,
+
+    },
+    {
+        _id: "aaabz",
+        name: "HD 1595 Tint",
+        description: "HD 1595 is a high-performance automotive window film that offers exceptional heat rejection, UV protection, and glare reduction. With its advanced nano-ceramic technology, this film provides superior clarity and durability while maintaining a sleek appearance. Designed to enhance the comfort of your vehicle's interior, HD7095 helps keep your car cooler in hot weather and protects against harmful UV rays. Its scratch-resistant surface ensures long-lasting performance, making it an ideal choice for those seeking both style and functionality.",
+        price: 1500,
+        image: [tint_16, tint_14, tint_15,],
         category: "Tint",
         sizes: ["S", "M", "L", "XL"],
         date: 1716664045448,
