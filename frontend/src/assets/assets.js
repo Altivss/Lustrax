@@ -33,6 +33,22 @@ import tint_17 from './tint_17.png';
 import tint_18 from './tint_18.png';
 import tint_19 from './tint_19.png';
 import tint_20 from './tint_20.png';
+import Cloth_1 from './Cloth_1.png';
+import Cloth_2 from './Cloth_2.png';
+import Cloth_3 from './Cloth_3.png';
+import Capture from './Capture.png';
+import Capture2 from './Capture2.png';
+import Capture3 from './Capture3.png';
+import Capture4 from './Capture4.png';
+import Capture5 from './Capture5.png';
+import Capture6 from './Capture6.png';
+import Capture7 from './Capture7.png';
+import Clay1 from './Clay1.png';
+import Clay2 from './Clay2.png';
+import Clay3 from './Clay3.png';
+import Clay4 from './Clay4.png';
+import Clay5 from './Clay5.png';
+import Clay6 from './Clay6.png';
 
 
 
@@ -64,7 +80,7 @@ export const products = [
         price: 1500,
         image: [PPF1, PPF2, PPF3, PPF4, PPF5],
         category: "Paint Protection Film",
-        sizes: ["S", "M", "L", "XL"],
+        sizes: ["Sedan", "Van", "Pickup", "SUV"],
         date: 1716664045448,
 
     },
@@ -123,6 +139,36 @@ export const products = [
         image: [tint_17, tint_18, tint_19, tint_20],
         category: "Tint",
         sizes: ["S", "M", "L", "XL"],
+        date: 1716664045448,
+
+    },
+    {  _id: "aaacb",
+        name: "Yellow Microfiber ",
+        description: "Yellow Microfiber is a versatile and highly absorbent cleaning cloth designed for automotive detailing. Made from premium microfiber material, it effectively lifts and traps dirt, dust, and grime without scratching surfaces. Its soft texture makes it ideal for use on delicate finishes, glass, and interiors. Whether you're polishing, waxing, or simply wiping down surfaces, Yellow Microfiber provides streak-free results and is machine washable for repeated use. Elevate your car care routine with this essential detailing tool.",
+        price: 1500,
+        image: [Cloth_1, Cloth_2, Cloth_3],
+        category: "Towels and Sponges",
+        sizes: ["30x30", "40x40"],
+        date: 1716664045448,
+
+    },
+     {  _id: "aaacc",
+        name: "Sponge and Cloth Applicator ",
+        description: "Sponge and cloth applicator is a versatile tool designed for applying wax, sealants, and coatings to your vehicle's surface. The sponge side provides a soft and even application, while the microfiber cloth side ensures a smooth finish without streaks or scratches. Its ergonomic design allows for comfortable handling, making it easy to reach all areas of your car. Ideal for both professional detailers and DIY enthusiasts, this applicator is a must-have for achieving a flawless shine.",
+        price: 1500,
+        image: [Capture, Capture2, Capture3, Capture4, Capture5, Capture6, Capture7],
+        category: "Towels and Sponges",
+        sizes: ["Normal"],
+        date: 1716664045448,
+
+    },
+     {  _id: "aaacd",
+        name: "Clay Mitt Towel",
+        description: "Clay mitt towel is a dual-purpose detailing tool that combines the benefits of a clay bar and a microfiber mitt. The clay side effectively removes contaminants, dirt, and grime from your vehicle's surface, while the microfiber side provides a gentle touch for drying and polishing. This innovative design allows for efficient cleaning and protection in one step, making it ideal for maintaining a smooth and glossy finish. Perfect for both professional detailers and car enthusiasts, the clay mitt towel is an essential addition to your car care arsenal.",
+        price: 1500,
+        image: [Clay1, Clay2, Clay3, Clay4, Clay5, Clay6],
+        category: "Towels and Sponges",
+        sizes: ["Normal"],
         date: 1716664045448,
 
     },

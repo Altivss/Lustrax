@@ -9,6 +9,7 @@ import About from "./components/About"
 import Contacts from "./components/Contacts"
 import Recruit from "./components/Recruit"
 import Terms from "./components/Terms"
+import Privacy from "./components/Privacy"
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
           <Route path="/contacts" element={<Contacts />} />
           <Route path='/recruit' element={<Recruit />} />
           <Route path="/terms" element={<Terms />} />
+          <Route path="/privacy" element={<Privacy />} />
       </Routes>
     <Footer />
     </div>

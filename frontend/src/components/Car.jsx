@@ -7,7 +7,7 @@ const Car = () => {
   const items = [
     { src: assets.PPF, label: 'PPF (Paint Protection Film)' },
     { src: assets.tint, label: 'CERAMIC CAR TINT' },
-    { src: assets.Microfiber, label: 'MICROFIBER CLOTH' },
+    { src: assets.Microfiber, label: 'TOWELS AND SPONGES' },
     { src: assets.ceramic, label: 'CERAMIC COATING' },
     { src: assets.lubricants, label: 'LUBRICANTS' },
     { src: assets.Polishing, label: 'POLISHING WAX' },
