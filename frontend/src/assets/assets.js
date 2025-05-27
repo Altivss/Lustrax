@@ -80,7 +80,7 @@ export const products = [
         price: 1500,
         image: [PPF1, PPF2, PPF3, PPF4, PPF5],
         category: "Paint Protection Film",
-        sizes: ["Sedan", "Van", "Pickup", "SUV"],
+        sizes: ["Sedan", "SUV"],
         date: 1716664045448,
 
     },
